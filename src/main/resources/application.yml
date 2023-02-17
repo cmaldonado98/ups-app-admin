@@ -1,0 +1,4 @@
+app:
+  apikey: ${API_KEY}
+  token: ${TOKEN}
+  url: ${URL_SUBJECT}
